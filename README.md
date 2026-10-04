@@ -99,7 +99,7 @@ print(out[0])   # pruned expression after one mode; see the notebook for the ful
 
 ## Citation
 
-If you use this code, please cite the accompanying paper (reference to be added).
+If you use this code, please cite the accompanying paper: Guidetti V., La Rocca L., Olivetti de Fran\c{c}a F., Kronberger G., "From Overparameterised Expressions to Parsimonious Models: Fisher-Geometric Pruning for Symbolic Regression", (under review). 
 
 ## License
 
