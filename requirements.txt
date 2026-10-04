@@ -1,0 +1,7 @@
+numpy
+scipy
+sympy
+pandas
+matplotlib
+joblib
+jupyter

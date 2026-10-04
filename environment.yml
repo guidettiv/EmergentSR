@@ -1,0 +1,12 @@
+name: emergentsr
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - sympy
+  - pandas
+  - matplotlib
+  - joblib
+  - jupyter
