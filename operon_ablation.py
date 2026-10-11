@@ -108,7 +108,7 @@ def make_config():
         def_bounds=[(-1e8, 1e8)],   # used by CV refit and the pruning modes
         lambda_threshold=-10,
         lambda_gap_threshold=25.0,
-        beta=0.2,
+        beta=0.1,
         snr_sq=16,
         cv_equiv_k=2,
         n_starts=30,
